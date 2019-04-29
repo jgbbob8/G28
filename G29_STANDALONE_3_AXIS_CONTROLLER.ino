@@ -1,4 +1,4 @@
-// G28 STANDALONE USB 3 AXIS-CONTROLLER 
+// G29 STANDALONE USB 3 AXIS-CONTROLLER 
 // Use with Arduino Leonardo or ProMicro (ATmega32U).
 // Install Joystick library
 
